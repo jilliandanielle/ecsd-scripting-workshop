@@ -8,4 +8,4 @@ echo $newVariable
 
 echo $SHELLOPTS
 
-exit 0
+
